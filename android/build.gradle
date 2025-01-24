@@ -1,4 +1,4 @@
-ggroup 'com.pichillilorenzo.flutter_inappwebview'
+group 'com.pichillilorenzo.flutter_inappwebview'
 version '1.0-SNAPSHOT'
 
 buildscript {
